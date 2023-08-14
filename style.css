@@ -8,18 +8,13 @@ font-family: 'Ysabeau Infant', sans-serif; */
 @import url('https://fonts.cdnfonts.com/css/h-halina-script');
 /* font-family: 'h Halina Script', sans-serif; */
 @import url('https://fonts.cdnfonts.com/css/wagenatta');
-/* font-family: 'Wagenatta', sans-serif; */
-                                                
-                
-                                                
-                
+/* font-family: 'Wagenatta', sans-serif; */         
                                            
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-
 .hero{
     width: 100vw;
     height: 40rem;
